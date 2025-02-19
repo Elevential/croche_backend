@@ -1,0 +1,2 @@
+django REST framework
+Python 3.10 or superior
